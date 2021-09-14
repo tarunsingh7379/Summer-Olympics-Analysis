@@ -3,7 +3,7 @@ This repository is having all the codes used in AI/ML Skill India Scholarship As
 
 ## Files
 * ### Summer.ipynb
-  This file contains all the codes which have been used to analyze the Summer Olypics Data.
+  This file contains all the codes which have been used to analyze the Summer Olympics Data.
 * ### summer.csv
   This file contains Summer Olympics Data.
 
