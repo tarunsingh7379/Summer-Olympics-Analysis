@@ -8,5 +8,4 @@ This repository is having all the codes used in AI/ML Skill India Scholarship As
   This file contains Summer Olympics Data.
 
 ## About Me
-I am Tarun Singh. I am currently pursuing B.Tech as a third year student. I am a competitive programmer. I love to do coding. My primary language for coding is C++.
-
+I am Tarun Singh. I am currently pursuing B.Tech as a third-year student. I am a competitive programmer. I love to do coding. My primary language for coding is C++.
